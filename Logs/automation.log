@@ -1,0 +1,214 @@
+2022-03-25 19:57:33,945  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 19:57:33,964  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 19:57:36,185  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 19:57:36,366  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 19:57:53,003  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2022-03-25 19:57:56,011  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2022-03-25 19:57:57,510  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 19:57:57,518  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 19:57:59,769  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 19:57:59,945  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 19:58:16,283  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2022-03-25 19:58:19,289  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2022-03-25 19:58:20,738  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 19:58:20,739  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 19:58:23,009  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 19:58:23,185  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 19:58:39,599  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2022-03-25 19:58:42,604  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2022-03-25 19:58:44,091  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 19:58:44,093  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 19:58:46,361  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 19:58:46,526  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 19:58:48,391  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 19:58:51,405  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2022-03-25 19:59:06,514  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 19:59:09,522  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2022-03-25 19:59:11,138  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 19:59:11,139  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 19:59:13,380  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 19:59:13,558  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:00:32,874  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:00:32,892  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:00:35,086  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:00:35,272  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:00:37,142  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2022-03-25 20:00:40,158  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2022-03-25 20:00:42,229  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2022-03-25 20:00:43,723  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:00:43,724  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:00:45,971  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:00:46,138  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:01:02,452  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2022-03-25 20:01:05,458  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2022-03-25 20:01:07,518  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2022-03-25 20:01:07,566  INFO [main] nopCommerceSDET:189 - ********* Searching customer details by Email **************
+2022-03-25 20:01:09,046  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:01:09,049  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:01:11,291  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:01:11,470  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:01:13,448  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2022-03-25 20:01:16,454  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2022-03-25 20:01:29,724  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2022-03-25 20:01:29,759  INFO [main] nopCommerceSDET:208 - ********* Searching customer details by Name **************
+2022-03-25 20:01:31,178  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:01:31,203  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:01:33,429  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:01:33,598  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:01:50,036  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:01:53,042  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2022-03-25 20:01:56,839  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:01:59,844  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2022-03-25 20:02:01,474  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:02:01,475  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:02:03,732  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:02:03,905  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:02:20,465  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:02:23,485  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2022-03-25 20:02:27,243  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:02:30,259  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2022-03-25 20:02:31,901  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:02:31,903  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:02:34,146  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:02:34,321  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:02:34,571  INFO [main] nopCommerceSDET:91 - ************* Login failed *****************
+2022-03-25 20:05:51,074  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:05:51,093  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:05:53,302  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:05:53,486  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:06:09,848  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2022-03-25 20:06:12,867  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2022-03-25 20:06:14,935  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2022-03-25 20:06:16,720  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:06:16,722  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:06:19,041  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:06:19,215  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:06:36,435  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2022-03-25 20:06:39,449  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2022-03-25 20:06:41,508  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2022-03-25 20:06:41,539  INFO [main] nopCommerceSDET:189 - ********* Searching customer details by Email **************
+2022-03-25 20:06:43,445  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:06:43,448  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:06:45,773  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:06:45,971  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:06:48,798  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2022-03-25 20:07:05,579  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2022-03-25 20:07:07,638  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2022-03-25 20:07:07,666  INFO [main] nopCommerceSDET:208 - ********* Searching customer details by Name **************
+2022-03-25 20:07:09,359  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:07:09,361  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:07:11,662  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:07:11,835  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:07:28,131  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:07:31,136  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2022-03-25 20:07:34,956  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:07:37,988  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2022-03-25 20:08:34,562  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:08:34,582  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:08:37,024  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:08:37,191  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:08:53,889  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2022-03-25 20:08:56,902  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2022-03-25 20:08:58,964  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2022-03-25 20:09:00,512  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:09:00,513  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:09:02,753  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:09:02,926  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:09:19,139  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2022-03-25 20:09:22,146  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2022-03-25 20:09:24,200  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2022-03-25 20:09:24,239  INFO [main] nopCommerceSDET:189 - ********* Searching customer details by Email **************
+2022-03-25 20:10:54,700  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:10:54,718  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:10:56,920  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:10:57,104  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:10:59,946  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2022-03-25 20:11:02,958  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2022-03-25 20:11:05,024  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2022-03-25 20:11:06,491  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:11:06,494  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:11:08,746  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:11:08,933  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:11:18,364  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2022-03-25 20:11:20,662  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:11:20,665  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:11:22,937  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:11:23,110  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:11:27,246  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2022-03-25 20:11:56,954  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:11:56,972  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:11:59,173  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:11:59,362  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:12:16,028  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:12:19,039  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2022-03-25 20:12:22,819  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:12:25,832  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2022-03-25 20:12:27,479  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:12:27,480  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:12:29,757  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:12:29,962  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:12:46,200  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:12:49,212  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2022-03-25 20:12:53,304  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:12:56,324  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2022-03-25 20:12:58,000  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:12:58,002  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:13:00,251  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:13:00,419  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:13:00,725  INFO [main] nopCommerceSDET:91 - ************* Login failed *****************
+2022-03-25 20:27:01,338  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:27:01,363  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:27:03,568  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:27:03,741  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:27:20,516  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:27:23,535  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2022-03-25 20:27:27,349  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:27:30,359  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2022-03-25 20:27:32,017  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:27:32,019  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:27:34,290  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:27:34,481  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:27:49,807  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:27:52,819  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2022-03-25 20:27:56,622  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:27:59,643  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2022-03-25 20:28:01,259  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:28:01,260  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:28:03,512  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:28:03,677  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:28:20,060  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:28:23,071  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2022-03-25 20:28:26,839  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:28:29,854  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2022-03-25 20:55:35,551  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 20:55:35,611  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 20:55:38,793  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 20:55:38,972  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 20:55:50,700  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:55:53,716  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2022-03-25 20:55:57,556  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 20:56:00,571  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2022-03-25 21:02:59,627  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 21:02:59,678  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 21:03:02,063  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 21:03:02,252  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 21:03:05,049  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 21:03:08,060  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2022-03-25 21:03:11,862  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 21:03:14,882  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2022-03-25 21:04:10,675  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 21:04:10,695  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 21:04:12,958  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 21:04:13,197  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 21:04:16,171  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 21:04:19,188  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2022-03-25 21:04:22,956  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 21:04:25,965  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2022-03-25 21:09:17,986  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2022-03-25 21:09:18,019  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2022-03-25 21:09:20,386  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2022-03-25 21:09:20,630  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2022-03-25 21:09:23,096  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 21:09:26,112  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2022-03-25 21:09:29,851  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2022-03-25 21:09:32,865  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
